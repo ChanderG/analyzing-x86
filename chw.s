@@ -14,6 +14,7 @@ main:
 	andl	$-16, %esp   #round off to the nearest 16 byte addr
 	subl	$16, %esp    #needed to align with 16 byte # for some SIMD instructions in main to work properly
 	movl	$.LC0, (%esp)  #TODO: why ()?
+	                     # it actually means 0 steps from esp, like 4(%esp)
 	call	puts
 	leave #resets stack and base pointer value from initally saved one
 	ret # returns control by popping instruction pointer

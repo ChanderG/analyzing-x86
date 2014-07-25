@@ -27,3 +27,4 @@ cc -m32 progfile.s
 ###List of files
 
 hw.c : A simple hello world c program.
+hello.c : A simple hello world c program with a single function

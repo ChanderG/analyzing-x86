@@ -28,3 +28,4 @@ cc -m32 progfile.s
 
 hw.c : A simple hello world c program.
 hello.c : A simple hello world c program with a single function
+name.c : A simple c program with input and output of a single char 

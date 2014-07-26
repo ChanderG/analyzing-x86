@@ -31,3 +31,4 @@ hello.c : A simple hello world c program with a single function
 name.c : A simple c program with input and output of a single char 
 loop.c : A simple c program with looping structure 
 array.c : A simple c program with a one dimensional array 
+switch.c : A simple c program with a  switch case

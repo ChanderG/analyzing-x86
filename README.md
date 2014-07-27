@@ -32,3 +32,5 @@ name.c : A simple c program with input and output of a single char
 loop.c : A simple c program with looping structure 
 array.c : A simple c program with a one dimensional array 
 switch.c : A simple c program with a  switch case
+matrix.c : A simple c program with a 2d array. Note that this has got 2 files one with the matrix being 50x50 and another with 20x20. Notice the differences.
+

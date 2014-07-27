@@ -21,3 +21,4 @@ main:
 	.size	main, .-main
 	.ident	"GCC: (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3"
 	.section	.note.GNU-stack,"",@progbits
+
